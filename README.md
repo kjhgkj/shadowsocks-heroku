@@ -6,7 +6,7 @@
 
 ## 如果遇到问题
 1. 请先检查是否遵循步骤（再次阅读一遍教程）
-2. 请先自行通过Google/[Github](https://github.comkjhgkj/shadowsocks-heroku/search?utf8=%E2%9C%93&q=&type=)寻找答案
+2. 请先自行通过Google/[Github](https://github.comk/jhgkj/shadowsocks-heroku/search?utf8=%E2%9C%93&q=&type=)寻找答案
 3. 如果还没有解决，欢迎通过[ issue](https://github.com/kjhgkj/shadowsocks-heroku/issues?q=is%3Aissue+is%3Aclosed+label%3Asolved) 提问（贴日志和配置的时候注意隐藏密码&个人ip）
 
 ## 准备
@@ -22,7 +22,7 @@ Heroku 提供免费账号，部分介绍如下：
 注册地址：https://signup.heroku.com/ （注册和部署过程可能需要梯子[#10](https://github.com/kjhgkj/shadowsocks-heroku/issues/10)，[#14](https://github.com/kjhgkj/shadowsocks-heroku/issues/14)）
 
 ## 部署
-1. 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.comkjhgkj/shadowsocks-heroku/tree/re)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/kjhgkj/shadowsocks-heroku/tree/re)
+1. 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/kjhgkj/shadowsocks-heroku/tree/re)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/kjhgkj/shadowsocks-heroku/tree/re)
   
     也可以选择另一个版本的服务端[shadowsocks-websocket-python](https://github.com/kjhgkjs/shadowsocks-websocket-python/blob/deploy/README.md)；**手机用户建议部署跨平台支持更好的[v2ray](https://github.com/kjhgkj/v2hero)**
 
